@@ -19,6 +19,6 @@ Telegram id:
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
 ## License
-[MIT](https://github.com/fark00/farkoo-Simulator/blob/master/LICENSE)
+[MIT](https://github.com/fark00/OS-Lab/blob/master/LICENSE)
 &#0169; 
 [Farzaneh Koohestani](https://github.com/fark00)
