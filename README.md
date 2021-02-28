@@ -6,3 +6,19 @@
 &#128521;	
 &#128522;	
 
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/fark00/farkoo-Simulator/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/fark00)
