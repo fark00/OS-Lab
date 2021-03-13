@@ -2,7 +2,7 @@
 
 ## This repository contains my codes for the operating system lab.
 
-**Note:** I suggest you try to solve the questions yourself first and then use my answers to review your answers.
+**Note:** If you are currently taking this course at IUT, i suggest you try to solve the questions yourself first and then use my answers to review your answers.
 &#128521;	
 &#128522;	
 
